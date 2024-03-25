@@ -12,7 +12,7 @@
   - It saves the url of your project when it's running, because you'll have to pass it to the frontend project also made by me in React js. You can always find the repositoty of the latter in my GitHub profile. Go visit it and download it now.
 
 # Resources
-React Js Frontend Project:  
+React Js Frontend Project: https://github.com/EdivanSteri/Personal-Spotify-Wrapped  
 How create a Spotify developer dashboard: https://developer.spotify.com/documentation/web-api
 
 Hope you like it
